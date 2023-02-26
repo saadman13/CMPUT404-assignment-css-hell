@@ -15,6 +15,13 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 License/Copyright
 =================
 
+All the code in homepage directory has been written by Saadman Islam Khan
+
+In the grutenberg directory, Saadman Islam Khan has just updated html codes for the respective books to link
+to his created css file (grutenberg.css) and no other changes have been made to the html files (they are from grutenberg), Saadman has added new styling to paragraphs, images, headers, etc.
+
+Saadman Islam Khan has also added screenshots of the webpages.
+
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.

@@ -1,0 +1,23 @@
+/* Copyright 2023 Saadman Islam Khan */
+body {
+   /* background-image: url(http://www.zingerbugimages.com/backgrounds/watermark_plasma_colors.jpg); */
+   background-image: url(https://images.unsplash.com/photo-1603484477859-abe6a73f9366?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+    font-family:cursive;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    border: 1px ridge black;
+    padding: 1.5em;
+}
+
+img {
+    background-color: antiquewhite;
+    padding: 1.5em;
+}
